@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://qieyangli.github.io</id>
+    <title>青于蓝</title>
+    <updated>2023-04-25T08:47:26.515Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://qieyangli.github.io"/>
+    <link rel="self" href="https://qieyangli.github.io/atom.xml"/>
+    <subtitle>青出于蓝而胜于蓝</subtitle>
+    <logo>https://qieyangli.github.io/images/avatar.png</logo>
+    <icon>https://qieyangli.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 青于蓝</rights>
+    <entry>
+        <title type="html"><![CDATA[换域名了！到新域名访问吧！blog.qyl.lol]]></title>
+        <id>https://qieyangli.github.io/ce-shi-1/</id>
+        <link href="https://qieyangli.github.io/ce-shi-1/">
+        </link>
+        <updated>2023-04-25T02:08:24.000Z</updated>
+        <content type="html"><![CDATA[<p>换域名了！到新域名访问吧！blog.qyl.lol<br>
+换域名了！到新域名访问吧！blog.qyl.lol<br>
+换域名了！到新域名访问吧！blog.qyl.lol</p>
+]]></content>
+    </entry>
+</feed>
